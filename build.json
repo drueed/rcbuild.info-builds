@@ -1,18 +1,22 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "HMB 235",
+    "esc": "DYS/Mini-20A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "AbuseMark/Acro-Naze32",
+    "prop": [
+      "Gemfan/5x3-FG-MR"
+    ],
+    "arm": "",
+    "battery": [
+    ],
+    "osd": "MultiRotorMania/MinimOSD",
+    "receiver": "FrSky/D4R-II",
+    "flightcam": "",
+    "hqcam": "",
+    "videotx": "ImmersionRC/5.8GHz-600mw",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
